@@ -12,10 +12,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/Evan
-[instagram]: https://www.instagram.com/Evan
+[<img align="left" alt="Evan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Evan | Facebook" width="22px" src="https://cdn.jsdelivr.netnpm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[instagram]: https://www.facebook.com/Evan
 [linkedin]: https://linkedin.com/in/Evan
