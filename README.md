@@ -1,4 +1,4 @@
-<h1>Hi, I'm Evan, an <a href="https://linkedin.com/in/Evan">IT Professional
+<h1>Hi, I'm Evan, an <a href="https://linkedin.com/in/Evan">IT Technician
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
