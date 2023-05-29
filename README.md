@@ -12,7 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Evan | LinkedIn" width="22px" src="https://www.linkedin.com/in/evan-montalvo-86604626a/" />][linkedin]
-[<img align="left" alt="Evan | Facebook" width="22px" src="https://cdn.jsdelivr.netnpm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[facebook]: https://www.facebook.com/Evan
-[linkedin]: https://linkedin.com/in/Evan
+<h3>
+
+Facebook: [my Facebook profile](https://www.facebook.com/briscocountyjunior)
+  
+Linkedin: [my Linkedin profile](https://www.linkedin.com/in/evan-montalvo-86604626a/)
